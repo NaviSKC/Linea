@@ -8,3 +8,4 @@ Lend/Borrow on Zerolend
 
 Can get ezETH from Renzo and restake it on Mendi finance or Zerolend
 
+Activate Surge code for Linea Surge quest
